@@ -79,16 +79,16 @@ All scripts interact strictly with local asset directories and system flags to r
 
 ---
 
-<div align="center">
-
-**⭐ Star this repository if you find it useful!**
-
-</div>
-
----
-
 ## ⚠️ Disclaimer
 
 Use this software only where third-party modifications are permitted. Using unauthorized software in online games may violate the game's rules or terms of service and may result in account restrictions or other consequences.
 
 ValoNexus Suite — configurable tools for Valorant.
+
+---
+
+<div align="center">
+
+**⭐ Star this repository if you find it useful!**
+
+</div>
